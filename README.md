@@ -1,4 +1,4 @@
-# processing_templates
+﻿# processing_templates
 
 TODO: ここに自分の作成したprocessing codeの簡単な内容を紹介してください．
 
@@ -62,3 +62,5 @@ The processing application is available as open source under the terms of the [M
 ## Code of Conduct
 
 Everyone interacting in the Test project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/processing_templates/blob/master/CODE_OF_CONDUCT.md).
+部分的に引用しました→http://matukyou2313.seesaa.net/article/323360279.html
+重力ボールはprocessingのsampleから引用さしてもらいました。
